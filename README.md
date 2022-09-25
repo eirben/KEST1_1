@@ -5,3 +5,7 @@
 3 æfing
 ### Eitthvað flott
 #### Eitthvað flottara
+
+1. Listi
+   1. listi 2
+   2. listi2.1
