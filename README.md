@@ -15,4 +15,4 @@
  - fimmta
  
  Þetta er ***mjög*** mikivægt
-Þetta er ---einnig--- mikivægt
+Þetta er ___einnig___ mikivægt
