@@ -17,4 +17,4 @@
  Þetta er ***mjög*** mikivægt
 Þetta er ___einnig___ mikivægt
 Þetta er *ítalskt* og **þetta** feitt
-I love supporting the **[EFF](https://eff.org)**.
+I love supporting the **![EFF](https://eff.org)**.
