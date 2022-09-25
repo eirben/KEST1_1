@@ -9,3 +9,7 @@
 1. Listi
    1. listi 2
    2. listi2.1
+ - annað
+ - þriðja
+ - fjórða
+ - fimmta
