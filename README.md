@@ -19,4 +19,4 @@
 Þetta er *ítalskt* og **þetta** feitt
 I love supporting the **[EFF](https://eff.org)**.
 Þetta er linkur sem opnar í nýjum glugga
-<a href="https://www.markdownguide.org">Learn Markdown!</a>
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
