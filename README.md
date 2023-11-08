@@ -5,6 +5,7 @@
 3 æfing
 ### Eitthvað flott
 #### Eitthvað flottara
+##### Semi flott
 
 1. Listi
    1. listi 2
@@ -14,8 +15,8 @@
  - fjórða
  - fimmta
  
- Þetta er ***mjög*** mikivægt
-Þetta er ___einnig___ mikivægt
+ Þetta er ***mjög*** mikilvægt
+Þetta er ___einnig___ mikilvægt
 Þetta er *ítalskt* og **þetta** feitt
 I love supporting the **[EFF](https://eff.org)**.
 Þetta er linkur sem opnar í nýjum glugga
