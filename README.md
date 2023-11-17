@@ -30,7 +30,3 @@ pie
     "Entertainment" : 10
     "Savings" : 15
 ```
-      ["Pepperoni", 2]
-    ]
-  }
-</l-chart>
