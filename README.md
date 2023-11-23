@@ -38,3 +38,9 @@ pie
     "Entertainment" : 10
     "Savings" : 15
 ```
+---
+| abc | def |
+| --- | --- |
+| bar | baz |
+| bar | bar |
+---
