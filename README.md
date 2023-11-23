@@ -8,8 +8,10 @@
 ##### Semi flott
 
 1. Listi
-   1. listi 2
-   2. listi2.1
+   1. listi
+   2. listi
+   3. listi
+   4. listi
  - annað
  - þriðja
  - fjórða
