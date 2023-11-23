@@ -14,6 +14,10 @@
  - þriðja
  - fjórða
  - fimmta
+---
+ <code style="color : blue">Þetta er blár texti</code>
+ 
+ <code style="color : red">text</code>
  
  Þetta er ***mjög*** mikilvægt
 Þetta er ___einnig___ mikilvægt
