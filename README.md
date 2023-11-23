@@ -18,6 +18,7 @@
 $${\color{red}Þetta \space er \space rauður \space miðjujafnaður \space texti}$$
  
 ${\color{blue}Þetta \space er \space blár \space vinstrijafnaður \space texti}$
+# $${\color{red}Þetta \space er \space rauður \space miðjujafnaður \space texti}$$
  
  Þetta er ***mjög*** mikilvægt
 Þetta er ___einnig___ mikilvægt
