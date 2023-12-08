@@ -25,5 +25,7 @@
 
    drwxr-xr-x 1 ebe 1049089   0 Dec  8 14:52 refs/
 
+   Þessar skrár eru faldar og skipta ekki máli að svo komnu en gott að gera sér grein fyrir því
+
    
 
