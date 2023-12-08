@@ -37,7 +37,8 @@ alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/RIYrfkZjWmA/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 
-1.   <a href="http://www.youtube.com/watch?feature=player_embedded&v=QV0kVNvkMxc
+1. Bú til grein (branching)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QV0kVNvkMxc
 " target="_blank"><img src="http://img.youtube.com/vi/QV0kVNvkMxc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 
