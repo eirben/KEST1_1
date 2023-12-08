@@ -52,7 +52,7 @@ alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/fQLK8Ib_SKk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 
-1. <a href="http://www.youtube.com/watch?feature=player_embedded&v=MnUd31TvBoU
+1. Sammvinna á github (collaborator)<a href="http://www.youtube.com/watch?feature=player_embedded&v=MnUd31TvBoU
 " target="_blank"><img src="http://img.youtube.com/vi/MnUd31TvBoU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 
