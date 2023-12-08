@@ -56,6 +56,7 @@ alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/MnUd31TvBoU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 
-1. <a href="http://www.youtube.com/watch?feature=player_embedded&v=HbSjyU2vf6Y
+1. Deila með (forking)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HbSjyU2vf6Y
 " target="_blank"><img src="http://img.youtube.com/vi/HbSjyU2vf6Y/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
