@@ -1,4 +1,4 @@
-# KEST1VL - Lokaverkefni (25%) - Haust 2023
+# KEST1VL - Lokaverkefni (25%) - Vor 2024
 
 - Verkefnið er hópverkefni (en má vinna sem einstaklingsverkefni), tveir nemendur saman í hóp.
 - Verkefnið skal unnið með skipanalínu á báðum tölvum hópsins.
