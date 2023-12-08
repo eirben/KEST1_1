@@ -2,6 +2,6 @@
 
 Myndbönd:
 Hér eru 10 góð kennslumyndbönd um git og github
-1. <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+1. <a href="http://www.youtube.com/watch?feature=player_embedded&v=3RjQznt-8kE
+" target="_blank"><img src="http://img.youtube.com/vi/3RjQznt-8kE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
