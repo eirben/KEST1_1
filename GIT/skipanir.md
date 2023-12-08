@@ -13,17 +13,17 @@
 
 -rw-r--r-- 1 ebe 1049089  23 Dec  8 14:52 HEAD
 
-<b>-rw-r--r-- 1 ebe 1049089 130 Dec  8 14:52 config</b>
+-rw-r--r-- 1 ebe 1049089 130 Dec  8 14:52 config
 
-<b>-rw-r--r-- 1 ebe 1049089  73 Dec  8 14:52 description</b>
+-rw-r--r-- 1 ebe 1049089  73 Dec  8 14:52 description
 
-<b>drwxr-xr-x 1 ebe 1049089   0 Dec  8 14:52 hooks/</b>
+drwxr-xr-x 1 ebe 1049089   0 Dec  8 14:52 hooks/
 
-<b>drwxr-xr-x 1 ebe 1049089   0 Dec  8 14:52 info/</b>
+drwxr-xr-x 1 ebe 1049089   0 Dec  8 14:52 info/
 
-<b>drwxr-xr-x 1 ebe 1049089   0 Dec  8 14:52 objects/</b>
+drwxr-xr-x 1 ebe 1049089   0 Dec  8 14:52 objects/</b>
 
-<b>drwxr-xr-x 1 ebe 1049089   0 Dec  8 14:52 refs/</b>
+drwxr-xr-x 1 ebe 1049089   0 Dec  8 14:52 refs/
 
    
 
