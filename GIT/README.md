@@ -2,5 +2,6 @@
 
 Myndbönd:
 Hér eru 10 góð kennslumyndbönd um git og github
-[![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
-1. ![1.hluti](https://www.youtube.com/watch?v=3RjQznt-8kE)
+1. <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
