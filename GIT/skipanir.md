@@ -12,11 +12,8 @@
    gerið þessa skipun ls -l .git
 
 <b>-rw-r--r-- 1 ebe 1049089  23 Dec  8 14:52 HEAD</b>
-
 <b>-rw-r--r-- 1 ebe 1049089 130 Dec  8 14:52 config</b>
-
 <b>-rw-r--r-- 1 ebe 1049089  73 Dec  8 14:52 description</b>
-
 <b>drwxr-xr-x 1 ebe 1049089   0 Dec  8 14:52 hooks/</b>
 
 <b>drwxr-xr-x 1 ebe 1049089   0 Dec  8 14:52 info/</b>
